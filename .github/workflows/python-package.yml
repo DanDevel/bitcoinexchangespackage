@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "master" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "DanDevel-patch-1" ]
 
 jobs:
   build:
