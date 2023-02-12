@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: bitcoinexchanges
+Version: 0.1
+Summary: Return Bitcoin`s price from 12 exchanges.
+Home-page: UNKNOWN
+Author: IgorAzevedo
+Author-email: igordazevedo@me.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE.txt
+
+UNKNOWN
+

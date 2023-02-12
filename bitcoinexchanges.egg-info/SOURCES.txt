@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+bitcoinexchanges/__init__.py
+bitcoinexchanges.egg-info/PKG-INFO
+bitcoinexchanges.egg-info/SOURCES.txt
+bitcoinexchanges.egg-info/dependency_links.txt
+bitcoinexchanges.egg-info/top_level.txt
