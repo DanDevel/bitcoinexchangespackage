@@ -17,6 +17,7 @@ poloniex_market(http)
 
 ## example:
 polo_btc_price = poloniex_market(http)
+
 print(polo_btc_price)
 
 You will see the BTC Bitcoin price on Poloniex exchange.
