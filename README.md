@@ -2,7 +2,7 @@
 by Igor Azevedo
 
 This is a Python 3.10 package.
-Allows users to retreive BTC Bitcoin`s price up to 12 exchanges.
+Allows users to retreive BTC Bitcoin`s price from 12 exchanges.
 
 ## PyPi Package:
 https://pypi.org/project/bitcoinexchanges/
